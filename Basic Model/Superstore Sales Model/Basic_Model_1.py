@@ -74,7 +74,7 @@ class MLP(nn.Module):
 # Set of Sizes  ------------------------------------------------------------------------------------------------------------------------
 
 input_features = FeaturesNum.shape[1]
-hidden_neurons = 30
+hidden_neurons = 360
 output_classes = 1
 
 
