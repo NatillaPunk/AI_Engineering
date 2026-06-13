@@ -1,0 +1,62 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Dataset folders
+data/
+datasets/
+dataset/
+Datasets/
+
+# CIFAR-10 downloaded files
+cifar-10-batches-py/
+cifar-10-python.tar.gz
+
+# CIFAR-100 downloaded files
+cifar-100-python/
+
+# MNIST
+MNIST/
+
+# Model checkpoints
+models/
+checkpoints/
+*.pt
+*.pth
+*.ckpt
+
+# TensorBoard
+runs/
+
+# Logs
+logs/
+*.log
+
+# Numpy / Pandas outputs
+*.npy
+*.npz
+*.csv
+
+# Images generated during training
+outputs/
+predictions/
+results/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
